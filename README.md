@@ -35,3 +35,5 @@ Day 31 - Graph Theory<br>
 Day 32 - Graph Theory<br>
 Day 33 - Graph Theory<br>
 Day 34 - Revised Graphs<br>
+Day 35 - Number Theory<br>
+Day 36 - Greedy Algo<br>
