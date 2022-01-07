@@ -40,3 +40,5 @@ Day 36 - Greedy Algo<br>
 Day 37 - Participated in Codeforces Hello 2022<br>
 Day 38 - Practiced questions on Codeforces<br>
 Day 39 - Participated in Codechef Starters 21<br>
+Day 40 - Upsolved Codechef Starters 21<br>
+Day 41 - Graph theory problems on Codeforces.<br>
