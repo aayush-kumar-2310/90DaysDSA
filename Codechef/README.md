@@ -1,1 +1,1 @@
-Follow the link to the repository that contains all codes to Codechef's problems.
+Follow the link to the repository that contains codes to Codechef's problems.
