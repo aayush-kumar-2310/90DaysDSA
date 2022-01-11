@@ -44,3 +44,5 @@ Day 40 - Upsolved Codechef Starters 21<br>
 Day 41 - Graph theory problems on Codeforces.<br>
 Day 42 - Leetcode Bi-weekly<br>
 Day 43 - Disjoint Set Union<br>
+Day 44 - Participated in Codeforces #764<br>
+Day 45 - Upsolved last round + Segment Trees<br>
