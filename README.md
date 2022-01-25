@@ -46,3 +46,17 @@ Day 42 - Leetcode Bi-weekly<br>
 Day 43 - Disjoint Set Union<br>
 Day 44 - Participated in Codeforces #764<br>
 Day 45 - Upsolved last round + Segment Trees<br>
+Day 46 - Codeforces Round #765<br>
+Day 47 - Upsolved last round + Segment Trees<br>
+Day 48 - Attempted January Long I<br>
+Day 49 - Upsolved last round + Codeforces #766<br>
+Day 50 - Codeforces Educational Round 121<br>
+Day 51 - Upsolved last round<br>
+Day 52 - Upsolved last round<br>
+Day 53 - Codechef Starters 22<br>
+Day 54 - Upsolved last round + Segment Trees<br>
+Day 55 - Segment Trees<br>
+Day 56 - Codeforces Round #767<br>
+Day 57 - Codeforces January Cook-Off<br>
+Day 58 - Upsolved last 2 rounds<br>
+Day 59 - Started Dynamic Programming<br>
