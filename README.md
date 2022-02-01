@@ -60,3 +60,10 @@ Day 56 - Codeforces Round #767<br>
 Day 57 - Codeforces January Cook-Off<br>
 Day 58 - Upsolved last 2 rounds<br>
 Day 59 - Started Dynamic Programming<br>
+Day 60 - Codechef Starters 23<br>
+Day 61 - Codeforces Round 768<br>
+Day 62 - Upsolved last 2 contests<br>
+Day 63 - January Lunchtime 2022<br>
+Day 64 - Codeforces Round 769<br>
+Day 65 - Codeforces Educational Round 122<br>
+Day 66 - Dynamic Programming<br>
