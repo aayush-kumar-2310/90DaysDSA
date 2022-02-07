@@ -67,3 +67,9 @@ Day 63 - January Lunchtime 2022<br>
 Day 64 - Codeforces Round 769<br>
 Day 65 - Codeforces Educational Round 122<br>
 Day 66 - Dynamic Programming<br>
+Day 67 - Upsolved last CF contest<br>
+Day 68 - Dynamic Programming<br>
+Day 69 - February Long - I<br>
+Day 70 - February Long - I<br>
+Day 71 - Dynamic Programming<br>
+Day 72 = Upsolved February Long Challenge<br>
